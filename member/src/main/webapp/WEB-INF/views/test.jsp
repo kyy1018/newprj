@@ -7,12 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Write Page</h1>
+    <h1>test Page</h1>
     <hr>
-    <form action="write" method="post">
-       .<input type="text" name="id" placeholder="id"><br>
-       .<input type="text" name="pw" placeholder="pw"><br>
-       .<input type="submit" value="등록하기">
-    </form>
+    <a href="list">목록보기</a>
+    <a href="writeForm">글 작성하기</a>
 </body>
 </html>
