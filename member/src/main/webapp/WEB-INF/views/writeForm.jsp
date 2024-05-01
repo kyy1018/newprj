@@ -10,9 +10,9 @@
     <h1>Write Page</h1>
     <hr>
     <form action="write" method="post">
-       <input type="text" name="id" placeholder="id"><br>
-       <input type="text" name="pw" placeholder="pw"><br>
-       <input type="submit" value="등록하기">
+       .<input type="text" name="id" placeholder="id"><br>
+       .<input type="text" name="pw" placeholder="pw"><br>
+       .<input type="submit" value="등록하기">
     </form>
 </body>
 </html>
